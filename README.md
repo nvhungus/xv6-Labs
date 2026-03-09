@@ -89,13 +89,6 @@ make
 
 make qemu
 
-# Repository Structure
-.
-├── xv6-labs-2024_lab1
-├── xv6-labs-2024_lab2
-├── xv6-labs-2023_lab3
-└── README.md
-
 # References
 - MIT xv6 Operating System
   https://pdos.csail.mit.edu/6.S081/
