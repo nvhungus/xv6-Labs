@@ -20,8 +20,7 @@ Through these labs, I explored important operating system concepts including:
 - **Course:** Operating Systems  
 - **Academic Year:** 2025 – 2026  
 - **Platform:** xv6 (RISC-V)  
-- **Language:** C  
-- **Student:** Viet Hung Nguyen  
+- **Language:** C
 
 ---
 
