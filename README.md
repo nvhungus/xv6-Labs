@@ -89,19 +89,19 @@ make
 
 make qemu
 
-## Repository Structure
+# Repository Structure
 .
 ├── xv6-labs-2024_lab1
 ├── xv6-labs-2024_lab2
 ├── xv6-labs-2023_lab3
 └── README.md
 
-## References
+# References
 - MIT xv6 Operating System
   https://pdos.csail.mit.edu/6.S081/
 - xv6 Book
   https://pdos.csail.mit.edu/6.1810/2024/xv6/book-riscv-rev4.pdf
 
-## License
+# License
 
 This project follows the MIT License, the same license as the original xv6 project.
